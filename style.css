@@ -1,0 +1,25 @@
+body {
+    background-color: #12152b;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-title {
+    color: #ff9f1c;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.motto {
+    color: #ff7f50;
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 40px;
+    font-size: 25px;
+}
+
+.list {
+    color: #3a5f9e;
+    text-align: center;
+}
